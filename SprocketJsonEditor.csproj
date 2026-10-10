@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="SprocketMod.props" />
+  <PropertyGroup><AssemblyName>SprocketJsonEditor</AssemblyName><RootNamespace>SprocketJsonEditor</RootNamespace><Version>0.1.0</Version></PropertyGroup>
+</Project>
