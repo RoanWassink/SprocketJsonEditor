@@ -1,5 +1,7 @@
 # Sprocket JSON Editor
 
+<!-- sp-compat {"hamish.sprocket": ">=0.2.55.5", "bepinex.bepinex": "6.0.0-be.788"} -->
+
 Reusable in-game catalogue editor for Sprocket mods. **[Download 0.1.0](https://github.com/RoanWassink/SprocketJsonEditor/releases/tag/v0.1.0)**. Included in the Cold War Expansion Pack 0.3.0.
 
 ## What it provides
